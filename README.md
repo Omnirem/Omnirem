@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omnirem
+- 👋 Hi, I’m Todorem
 - 👀 I’m interested in Everuthing
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Everything
