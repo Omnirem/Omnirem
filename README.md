@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Veeral
-- 👀 I’m interested in Java and AI
-- 🌱 I’m currently learning Java in BlueJ environment
-- 💞️ I’m looking to collaborate on any basic Java project
+- 👾 Hi, I’m Veeral
+- 💻 I’m currently learning Python
+- 🌱 I’m interested in the implementation of computational methods in science and technology
+- 👀 I genuinely don't know why I'm here but I'm looking forward to work and collaborate with literally anything
 
 <!---
 Omnirem/Omnirem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
