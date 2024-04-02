@@ -1,6 +1,6 @@
 - 👾 Hi, I’m Veeral
 - 💻 I’m currently learning Python
-- 🌱 I’m interested in the implementation of computational methods in science and technology
+- 🔭 I’m interested in the implementation of computational methods in science and technology
 - 👀 I genuinely don't know why I'm here but I'm looking forward to work and collaborate with literally anything
 
 <!---
